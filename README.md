@@ -22,7 +22,7 @@
 ## System analysis and desgin files
 ## :fireworks: Phase 0
 #### 1. Resume of members (pdf)
-#### 2. Link of inro video about our team
+#### 2. Link of intro video about our team
 ## :gift: Phase 1
 #### 1. Project explanation (pdf)
 #### 2. Link of the video in which we explain about our project
