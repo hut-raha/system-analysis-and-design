@@ -46,6 +46,7 @@
 #### 3. UML diagram
 #### 4. DFD presentation link added (Google dirve)
 #### 5. EER presentation link added (Google dirve)
+#### 6. UML presentation link added (Google dirve)
 ## :crystal_ball: Phase 6
 #### 1. To be continued...
 ## :jack_o_lantern: Phase 7
