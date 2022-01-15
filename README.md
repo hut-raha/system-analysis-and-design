@@ -44,9 +44,15 @@
 #### 1. DFD diagram
 #### 2. EER diagram
 #### 3. UML diagram
-#### 4. Link of the related google drive about our meeting for this phase
-#### 5. Link of the related google doc for this phase
+#### 4. DFD presentation link added (Google dirve)
+#### 5. EER presentation link added (Google dirve)
+#### 6. UML presentation link added (Google dirve)
+#### 7. first online session link added (Google drive)
+#### 8. second online session link added (Google drive)
+#### 9. third online session link added (Google drive)
+#### 10. fourth online session link added (Google drive)
+#### 11. Google doc files about this phase were added
 ## :crystal_ball: Phase 6
-#### 1. To be continued...
+#### 1. Created our projects UI in figma. The related Raha.fig file was added
 ## :jack_o_lantern: Phase 7
 #### 1. To be continued...
