@@ -48,6 +48,7 @@
 #### 5. EER presentation link added (Google dirve)
 #### 6. UML presentation link added (Google dirve)
 #### 7. first online session link added (Google drive)
+#### 8. second online session link added (Google drive)
 ## :crystal_ball: Phase 6
 #### 1. To be continued...
 ## :jack_o_lantern: Phase 7
