@@ -56,4 +56,5 @@
 #### 1. Created our projects UI in figma. The related Raha.fig file was added
 ## :jack_o_lantern: Phase 7
 #### 1. Created SQL code of projects database
-#### 2. Created the actual database and made a backup of it
+#### 2. Created the actual database and made a backup file out of it
+#### 3. Filled our database with random data and made a backup file out of it
