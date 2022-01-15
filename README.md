@@ -55,4 +55,4 @@
 ## :crystal_ball: Phase 6
 #### 1. Created our projects UI in figma. The related Raha.fig file was added
 ## :jack_o_lantern: Phase 7
-#### 1. To be continued...
+#### 1. Created SQL code of projects database
