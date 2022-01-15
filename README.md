@@ -36,11 +36,13 @@
 #### 2. Link of the video explaining the proposal
 #### 3. Link of the related google doc for this phase
 ## :tada: Phase 4 (Learning common and useful tools to deploy our project)
-#### 1. explaining and comparing common and useful tools to deploy our project (pdf)
+#### 1. Explaining and comparing common and useful tools to deploy our project (pdf)
 #### 2. Link of the related google drive about our meeting for this phase
 #### 3. Link of the related google doc for this phase
 ## :balloon: Phase 5
-#### 1. To be continued...
+#### 1. DFD diagram
+#### 2. EER diagram
+#### 3. UML diagram
 ## :crystal_ball: Phase 6
 #### 1. To be continued...
 ## :jack_o_lantern: Phase 7
