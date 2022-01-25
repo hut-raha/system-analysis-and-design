@@ -1,0 +1,559 @@
+commit ead4b732c7e650c8ba52ecf00271677f865a192a
+Author: Rouzbeh <rouzbehmoradian@gmail.com>
+Date:   Mon Jan 24 23:19:32 2022 +0330
+
+    final changes for phases 6 and 7
+
+commit b2a2c7b4d6bd3d10a67eda6306755e0942ca3d47
+Merge: fa6a215 4be6071
+Author: Raha <95179333+hut-raha@users.noreply.github.com>
+Date:   Mon Jan 24 21:42:45 2022 +0330
+
+    Merge pull request #9 from Amirhosein-GPR/main
+    
+    fixed login bug
+
+commit 4be6071a561e10b2c6a72260f4b8e6e5ae532288
+Merge: d3f9bac fa6a215
+Author: Amirhosein <44033483+Amirhosein-GPR@users.noreply.github.com>
+Date:   Mon Jan 24 21:39:50 2022 +0330
+
+    Merge branch 'hut-raha:main' into main
+
+commit d3f9bac1ecf2bf6a96e2e32eb9d6d107fd5b263a
+Author: Amirhosein <amirhosein@blazer.localdomain>
+Date:   Mon Jan 24 21:31:16 2022 +0330
+
+    Fixed login bug
+
+commit 9bb758a8bc7e7132a72347ab311e3f142c5156c1
+Author: Amirhosein <amirhosein@blazer.localdomain>
+Date:   Mon Jan 24 21:30:22 2022 +0330
+
+    deleted website
+
+commit d1a44b2d8772636ed0887b366b7e0e28237e9f72
+Author: Amirhosein <amirhosein@blazer.localdomain>
+Date:   Mon Jan 24 20:51:18 2022 +0330
+
+    Added website again, Fixed a UI bug
+
+commit 4969435a542020c0a8abf7b679dd8962b3f68a0b
+Author: Amirhosein <amirhosein@blazer.localdomain>
+Date:   Mon Jan 24 20:50:44 2022 +0330
+
+    deleted website
+
+commit d6ba054293d0b6e438868ec72e2395d5ee246ab2
+Author: Amirhosein <amirhosein@blazer.localdomain>
+Date:   Mon Jan 24 20:43:54 2022 +0330
+
+    Added website, Fixed a bug
+
+commit b513327c61d980c16ae5c50ad504b577bee1965c
+Author: Amirhosein <amirhosein@blazer.localdomain>
+Date:   Mon Jan 24 20:43:21 2022 +0330
+
+    deleted webiste
+
+commit d0ad48f25c752cb98cee7dc8b16235268391f6c8
+Author: Amirhosein <amirhosein@blazer.localdomain>
+Date:   Mon Jan 24 20:01:37 2022 +0330
+
+    fixed dark mode bug
+
+commit d3952feafb174d49c24ed7b4420d6404b055736e
+Author: Amirhosein <amirhosein@blazer.localdomain>
+Date:   Mon Jan 24 20:00:51 2022 +0330
+
+    deletion
+
+commit fa6a215f14f7f1d4ab86c76ec0472721c4e4ec3e
+Merge: 4eb0a8a 89809de
+Author: Raha <95179333+hut-raha@users.noreply.github.com>
+Date:   Mon Jan 24 18:54:46 2022 +0330
+
+    Merge pull request #8 from Amirhosein-GPR/main
+    
+    final website commit
+
+commit 89809de0a3f9efe17b703e2bb81e55b253ba0470
+Merge: 31bac3e 4eb0a8a
+Author: Amirhosein <amirhosein@blazer.localdomain>
+Date:   Mon Jan 24 18:45:37 2022 +0330
+
+    website commit
+
+commit 31bac3eeda16524bc20cab6bdcd03de30637f645
+Author: Amirhosein <amirhosein@blazer.localdomain>
+Date:   Mon Jan 24 18:27:41 2022 +0330
+
+    Added website files again
+
+commit b6c83dcc67510fde2d1e76ec94a3c6c635295ff9
+Author: Amirhosein <amirhosein@blazer.localdomain>
+Date:   Mon Jan 24 18:26:16 2022 +0330
+
+    deleted website
+
+commit 4eb0a8ac15672b51b432df120b7029defda452ec
+Author: Rouzbeh <rouzbehmoradian@gmail.com>
+Date:   Fri Jan 21 20:59:00 2022 +0330
+
+    added reports
+
+commit 238698cad307eb16c17a3ba754ff6ddd59fafcf9
+Merge: eeff636 928e7fe
+Author: Raha <95179333+hut-raha@users.noreply.github.com>
+Date:   Wed Jan 19 16:49:38 2022 +0330
+
+    Merge pull request #7 from Amirhosein-GPR/main
+    
+    Security problem
+
+commit 928e7fe77eeb24cb791d5f034e9657dfff78f70a
+Author: Amirhosein <amirhosein@blazer.localdomain>
+Date:   Wed Jan 19 15:12:09 2022 +0330
+
+    Added Prototype again
+
+commit 8df066a8fa78d82d3703bb4380eb826a4c18322d
+Author: Amirhosein <amirhosein@blazer.localdomain>
+Date:   Wed Jan 19 15:10:37 2022 +0330
+
+    Deleted Prototype due to security problem
+
+commit eeff6364bee7e8ae9eb7a58935716673483ad0f5
+Author: Raha <95179333+hut-raha@users.noreply.github.com>
+Date:   Sat Jan 15 21:34:55 2022 +0330
+
+    Update README.md
+
+commit 6acaa8e8fb7effad5f5453decec83fdb55488aca
+Author: Raha <95179333+hut-raha@users.noreply.github.com>
+Date:   Sat Jan 15 21:34:25 2022 +0330
+
+    Update README.md
+
+commit 98fffd51c1a4253cfddc7a31aecf532752b4bc09
+Author: Raha <95179333+hut-raha@users.noreply.github.com>
+Date:   Sat Jan 15 21:32:30 2022 +0330
+
+    Update README.md
+
+commit 6e59e3301c9c6a0fe84b94a3334c9ca698b705a2
+Author: Raha <95179333+hut-raha@users.noreply.github.com>
+Date:   Sat Jan 15 21:31:19 2022 +0330
+
+    Update README.md
+
+commit e53c182d64faf074ee295d585bd2a6dca42eb55c
+Author: Raha <95179333+hut-raha@users.noreply.github.com>
+Date:   Sat Jan 15 21:29:51 2022 +0330
+
+    Update README.md
+
+commit 8e0929633527f890c85e1c15638a7493f281f707
+Author: Raha <95179333+hut-raha@users.noreply.github.com>
+Date:   Sat Jan 15 21:28:01 2022 +0330
+
+    Update README.md
+
+commit a17fecf5c6729e57f794c7f82d6fcc4e26292e0a
+Author: Raha <95179333+hut-raha@users.noreply.github.com>
+Date:   Sat Jan 15 21:23:49 2022 +0330
+
+    Update README.md
+
+commit 90b41f6d91555213f23b49a5fbb141a7d0fdefee
+Author: Raha <95179333+hut-raha@users.noreply.github.com>
+Date:   Sat Jan 15 21:21:51 2022 +0330
+
+    Update README.md
+
+commit d7851cc4f8116fa9769c6712863262f153a84c8d
+Author: Raha <95179333+hut-raha@users.noreply.github.com>
+Date:   Sat Jan 15 21:21:22 2022 +0330
+
+    Update README.md
+
+commit ece7f8f520c7a9c429584e510bb3d392fadc76c9
+Author: Raha <95179333+hut-raha@users.noreply.github.com>
+Date:   Sat Jan 15 21:20:54 2022 +0330
+
+    Update README.md
+
+commit 7d4aadd2dd402983ca6fbffddb4705ba9ce44fd1
+Author: Raha <95179333+hut-raha@users.noreply.github.com>
+Date:   Sat Jan 15 21:19:42 2022 +0330
+
+    Update README.md
+
+commit 7c2a87d37f66f66c28e2852c5676a539b05aa12f
+Author: Raha <95179333+hut-raha@users.noreply.github.com>
+Date:   Sat Jan 15 21:19:34 2022 +0330
+
+    Update README.md
+
+commit eb881bc62946261f67ada87d164d0fa5ac8d34d4
+Author: Raha <95179333+hut-raha@users.noreply.github.com>
+Date:   Sat Jan 15 21:19:07 2022 +0330
+
+    Update README.md
+
+commit e3f1d893b23e7f03f89b52c93b36e61f000ee63b
+Author: Raha <95179333+hut-raha@users.noreply.github.com>
+Date:   Sat Jan 15 21:18:47 2022 +0330
+
+    Update README.md
+
+commit a3900d89906270162a1b27d9f7edd459ca6f4c1b
+Author: Raha <95179333+hut-raha@users.noreply.github.com>
+Date:   Sat Jan 15 21:16:17 2022 +0330
+
+    Updated README.md
+
+commit 504aabdeeb33b0894327c4588cc442dbbbdad328
+Merge: 7de5497 869ae79
+Author: Raha <95179333+hut-raha@users.noreply.github.com>
+Date:   Sat Jan 15 21:09:52 2022 +0330
+
+    Merge pull request #6 from Amirhosein-GPR/main
+    
+    Added darsafzar website's files from it's repo to this repo
+
+commit 869ae7927badf9f9192f9ef40311a7096bedaa80
+Author: Amirhosein_GPR <a.asgari1999@gmail.com>
+Date:   Sat Jan 15 21:07:00 2022 +0330
+
+    Added darsafzar website's files from it's repo to this repo
+
+commit 7de549772f1631f4a1b9cfac73b75bc03d15cd65
+Author: Rouzbeh <rouzbehmoradian@gmail.com>
+Date:   Fri Jan 14 15:11:51 2022 +0330
+
+    updated database and figma
+
+commit 053a673fdb6cf9fa163259c86e72bebb965cd3f2
+Author: Rouzbeh <rouzbehmoradian@gmail.com>
+Date:   Fri Jan 7 00:10:11 2022 +0330
+
+    added Use Case Diagram to UML++ folder
+
+commit a80b535b71cde6d4c7c3d968c04ac8d9f3548ac6
+Author: Rouzbeh <rouzbehmoradian@gmail.com>
+Date:   Fri Jan 7 00:08:15 2022 +0330
+
+    added Timing Diagram to UML++ folder
+
+commit 43e1e3f3330547427e75c657fcab078d324922df
+Author: Rouzbeh <rouzbehmoradian@gmail.com>
+Date:   Fri Jan 7 00:07:20 2022 +0330
+
+    added State Machine Diagram to UML++ folder
+
+commit 48291a31179054a31cd7ac9640eed006ff8607aa
+Author: Rouzbeh <rouzbehmoradian@gmail.com>
+Date:   Fri Jan 7 00:05:39 2022 +0330
+
+    added sequence diagram to UML++ folder
+
+commit d560742c3bd2aeb2ad37303871784606e7d743e0
+Author: Rouzbeh <rouzbehmoradian@gmail.com>
+Date:   Fri Jan 7 00:04:48 2022 +0330
+
+    added Package Diagram to UML++ folder
+
+commit a69f6f2b982b326a2adabd0c9a530d2a62e05605
+Author: Rouzbeh <rouzbehmoradian@gmail.com>
+Date:   Fri Jan 7 00:04:01 2022 +0330
+
+    added Object Diagram to UML++ folder
+
+commit 2b83cac867184114ffc7e15d534010f4eeb1c091
+Author: Rouzbeh <rouzbehmoradian@gmail.com>
+Date:   Fri Jan 7 00:03:05 2022 +0330
+
+    added Interaction Overview Diagram to UML++ folder
+
+commit 77938f70c0e33ffb50648bcd0816b36ad6ee683f
+Author: Rouzbeh <rouzbehmoradian@gmail.com>
+Date:   Fri Jan 7 00:01:35 2022 +0330
+
+    added Deployment Diagram to UML++ folder
+
+commit 18cf7e4bd59e697b6463ccdcb99c6beb1a7c04e5
+Author: Rouzbeh <rouzbehmoradian@gmail.com>
+Date:   Fri Jan 7 00:00:37 2022 +0330
+
+    added component diagram to UML++ folder
+
+commit 1295c59b5216d75a504736fba8f18822225ff5c0
+Author: Rouzbeh <rouzbehmoradian@gmail.com>
+Date:   Thu Jan 6 23:59:10 2022 +0330
+
+    added Communication Diagram to UML++ folder
+
+commit f068947c0fd7b6f3b7f162cd09c77c5f835bdbc8
+Author: Rouzbeh <rouzbehmoradian@gmail.com>
+Date:   Thu Jan 6 23:56:49 2022 +0330
+
+    added class diagram to UML++ folder
+
+commit 3daab81c4309d0c23c8aa59bce05f480424891be
+Author: Rouzbeh <rouzbehmoradian@gmail.com>
+Date:   Thu Jan 6 23:54:06 2022 +0330
+
+    added Activity Diagram
+
+commit 3945b0d51723ae0010a4bb7087619ba44b5c3707
+Author: Rouzbeh <rouzbehmoradian@gmail.com>
+Date:   Fri Dec 31 10:59:53 2021 +0330
+
+    changed the format
+
+commit c6774875f4249357182b41aed1918dd8bf269c3b
+Author: Rouzbeh <rouzbehmoradian@gmail.com>
+Date:   Fri Dec 31 02:37:06 2021 +0330
+
+    added first template of database
+
+commit eaef2adc7a785986b1ec2a0bea77df0edd1dab36
+Author: Rouzbeh <rouzbehmoradian@gmail.com>
+Date:   Fri Dec 31 02:36:11 2021 +0330
+
+    added first template of UI design in figma
+
+commit fbf3e40d4f817f294aa6a9d9a9172a776193ef94
+Author: Rouzbeh <rouzbehmoradian@gmail.com>
+Date:   Fri Dec 31 02:01:29 2021 +0330
+
+    added raw files of all phases
+
+commit b6958a397d9028c2e50201929eba10828566f12d
+Author: Rouzbeh <rouzbehmoradian@gmail.com>
+Date:   Sat Dec 18 00:03:11 2021 +0330
+
+    final edit for phase5
+
+commit 9d558f847fa370588969593b29fe97e12d6c06f9
+Merge: e4b7043 f3815d5
+Author: Raha <95179333+hut-raha@users.noreply.github.com>
+Date:   Fri Dec 17 23:42:37 2021 +0330
+
+    Merge pull request #5 from Amirhosein-GPR/main
+    
+    Final UML_Class_digram pdf file
+
+commit f3815d53ebb3a08931fff0c9967aa40f5c8b2381
+Author: Amirhosein <amirhosein@blazer.localdomain>
+Date:   Fri Dec 17 23:40:25 2021 +0330
+
+    Final UML_Class_digram pdf file
+
+commit e4b704373de0a73a189d671534af72099e530ae0
+Author: Rouzbeh <rouzbehmoradian@gmail.com>
+Date:   Wed Dec 15 02:50:00 2021 +0330
+
+    final DFD
+
+commit 7d8be1cd032d8d18a2100b9f3571d5facbbe70a7
+Author: Rouzbeh <rouzbehmoradian@gmail.com>
+Date:   Mon Dec 13 20:39:36 2021 +0330
+
+    last edit for first and second Level of DFD
+
+commit 770b7c16df1f4da4ee4cb8f28b5c0f9bcbddeda4
+Author: Rouzbeh <rouzbehmoradian@gmail.com>
+Date:   Mon Dec 13 19:54:17 2021 +0330
+
+    forth edit for Level 1
+
+commit 6b66d962e17ed3dbcc6b64310811a7877f8517a4
+Merge: 4ee48b6 f01220c
+Author: Raha <95179333+hut-raha@users.noreply.github.com>
+Date:   Sun Dec 12 22:21:00 2021 +0330
+
+    Merge pull request #4 from Amirhosein-GPR/main
+    
+    Updated files
+
+commit f01220c26e0ec90d9754ab16121874df243d7afc
+Author: Amirhosein <amirhosein@blazer.localdomain>
+Date:   Sun Dec 12 22:16:13 2021 +0330
+
+    Updated UML-Component.pdf
+
+commit a78810f765bdb91f52148d2f14c5051e03df9081
+Author: Amirhosein <amirhosein@blazer.localdomain>
+Date:   Sun Dec 12 22:15:52 2021 +0330
+
+    Updated UML-Class.pdf
+
+commit 4ee48b627233b5e30a7536f7830fbce7ccced4a8
+Author: Rouzbeh <rouzbehmoradian@gmail.com>
+Date:   Sun Dec 12 02:15:36 2021 +0330
+
+    level 1 third edit
+
+commit 81f1f451e372c7ee2b9f8b772c7df187bee994b2
+Author: Rouzbeh <rouzbehmoradian@gmail.com>
+Date:   Sat Dec 11 21:57:45 2021 +0330
+
+    finished half of DFD's first Level
+
+commit 641fb34271f7bcd4939f5d8319a4e84530754d07
+Merge: a01ffcd 18cde43
+Author: Raha <95179333+hut-raha@users.noreply.github.com>
+Date:   Sat Dec 11 16:53:26 2021 +0330
+
+    Merge pull request #3 from Amirhosein-GPR/main
+    
+    2 changes
+    Renamed UML.pdf to UML-Class.pdf
+    Added UML-Component.pdf file
+
+commit 18cde435d91f576de5b30e88a6603d32a293bec6
+Author: Amirhosein <amirhosein@blazer.localdomain>
+Date:   Sat Dec 11 16:49:04 2021 +0330
+
+    Added UML-Component.pdf file
+
+commit f105130ce3695c75319123af6ea90f4368538c53
+Author: Amirhosein <amirhosein@blazer.localdomain>
+Date:   Sat Dec 11 16:47:15 2021 +0330
+
+    Renamed UML.pdf to UML-Class.pdf
+
+commit a01ffcd469842c787afc736c837fe6c057dfeeb4
+Author: Rouzbeh <rouzbehmoradian@gmail.com>
+Date:   Sat Dec 11 16:04:47 2021 +0330
+
+    finished second Level of DFD(Level 0 and 1 are remained)
+
+commit 3b9a4ece8591ba043f8e8322d6eccc52a02814f9
+Author: Rouzbeh <rouzbehmoradian@gmail.com>
+Date:   Fri Dec 10 02:13:42 2021 +0330
+
+    edited 2 more pages for Level2 in DFD_Raha.pdf
+
+commit 76ecc4915c7d3872ff4682596f0796f8b90d3520
+Merge: 795773b bf31dd6
+Author: Raha <95179333+hut-raha@users.noreply.github.com>
+Date:   Thu Dec 9 20:00:59 2021 +0330
+
+    Merge pull request #2 from Amirhosein-GPR/main
+    
+    Updated UML.pdf file
+
+commit bf31dd66aa7ed1eb67f85cc6b4e06083a68699da
+Merge: b24754d 795773b
+Author: Amirhosein <44033483+Amirhosein-GPR@users.noreply.github.com>
+Date:   Thu Dec 9 19:57:25 2021 +0330
+
+    Merge branch 'hut-raha:main' into main
+
+commit b24754d3ef4a7b77eefa89d98454d74f130ec419
+Author: Amirhosein <amirhosein@blazer.localdomain>
+Date:   Thu Dec 9 19:54:45 2021 +0330
+
+    Updated UML.pdf file
+
+commit 795773b5128cbd98ccb5f1df7697657fd4c195fd
+Author: Rouzbeh <rouzbehmoradian@gmail.com>
+Date:   Thu Dec 9 02:25:02 2021 +0330
+
+    second edit for DFD in visio
+
+commit 126823bc16b89930d19b496fb254dba69c537114
+Author: Rouzbeh <rouzbehmoradian@gmail.com>
+Date:   Wed Dec 8 21:32:20 2021 +0330
+
+    added first design in visio for DFD
+
+commit 9da1d54c922cd24481b08b2f57c74dd2fc77df1c
+Merge: 79b9118 f9bee32
+Author: Raha <95179333+hut-raha@users.noreply.github.com>
+Date:   Tue Dec 7 13:37:07 2021 +0330
+
+    Merge pull request #1 from Amirhosein-GPR/main
+    
+    Added UML.pdf file
+
+commit f9bee32d7b2d7fb300f0f3161c54a84ef4e63898
+Author: Amirhosein <amirhosein@blazer.localdomain>
+Date:   Tue Dec 7 13:33:25 2021 +0330
+
+    Added UML.pdf
+
+commit d6a2c859843b2751224ed53138af7e2441ffcad0
+Author: Amirhosein <amirhosein@blazer.localdomain>
+Date:   Tue Dec 7 13:31:26 2021 +0330
+
+    Removed UML.pdf file
+
+commit 79b91182bb0448922a65a7c616e2ed3591084d2a
+Author: Amirhosein <amirhosein@blazer.localdomain>
+Date:   Tue Dec 7 13:14:53 2021 +0330
+
+    Added UML.pdf file
+
+commit 660e32388628b7c858f34044ef4d9089a6ddea0f
+Author: Rouzbeh <rouzbehmoradian@gmail.com>
+Date:   Mon Dec 6 22:37:05 2021 +0330
+
+    added first designs for phase 5
+
+commit 7f80526f8284e41d078214043a1e3683264124e4
+Author: Raha <95179333+hut-raha@users.noreply.github.com>
+Date:   Mon Nov 29 23:51:02 2021 +0330
+
+    fixed a minor mistake in README.md
+
+commit 69710b66d76106d23966750be1ada638f12cb96d
+Author: Raha <95179333+hut-raha@users.noreply.github.com>
+Date:   Mon Nov 29 23:42:02 2021 +0330
+
+    Updated README.md file
+
+commit b87deeb9421a6557f7c84913438043731d629c02
+Author: Rouzbeh <rouzbehmoradian@gmail.com>
+Date:   Sun Nov 28 23:44:14 2021 +0330
+
+    added team online class to links.txt for phase 4
+
+commit e6a67392b5aa208c30a94321771e2f76519db588
+Author: Amirhosein <amirhosein@blazer.localdomain>
+Date:   Sun Nov 28 19:34:04 2021 +0330
+
+    main files
+
+commit cce9bf8e14ab268b59ba47f2d66a786da2eed889
+Author: AmirHosseinBabaeayan <34911859+AmirHosseinBabaeayan@users.noreply.github.com>
+Date:   Mon Nov 15 20:58:10 2021 +0330
+
+    Update README.md
+
+commit a1a39df2e83f2b0887519fc3222df6081afb677e
+Author: AmirHosseinBabaeayan <34911859+AmirHosseinBabaeayan@users.noreply.github.com>
+Date:   Mon Nov 15 20:50:29 2021 +0330
+
+    Delete Phase 00 directory
+
+commit ed2374c5ae7799b4a30fb7013d8944a541daee31
+Author: AmirHossein Babaeayan <amirhosseinbabaeayan@gmail.com>
+Date:   Sat Oct 2 02:40:12 2021 +0330
+
+    Phase 00
+
+commit e279d97478ea700d0f2b329ad794b600e96b49e3
+Author: AmirHosseinBabaeayan <34911859+AmirHosseinBabaeayan@users.noreply.github.com>
+Date:   Sat Oct 2 02:28:56 2021 +0330
+
+    Update README.md
+
+commit 599f27a57bf9ff63844c7929904b7a1e432a6d59
+Author: AmirHosseinBabaeayan <34911859+AmirHosseinBabaeayan@users.noreply.github.com>
+Date:   Sat Oct 2 02:27:56 2021 +0330
+
+    Initial commit
